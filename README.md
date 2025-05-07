@@ -1,4 +1,4 @@
-# GUI_simple_Calculator
+
 # 🧮 GUI Simple Calculator
 
 A simple calculator application built using Python and Tkinter. This GUI-based calculator supports basic arithmetic operations and is implemented in a Jupyter Notebook.
